@@ -23,5 +23,3 @@ Here's a walkthrough of implemented user stories:
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
