@@ -19,7 +19,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![MyGIf](./Campround-Walkthrough.gif)
+![MyGIf](./Campground-Walkthrough.gif)
 
 GIF created with ...  
 [Kap](https://getkap.co/) for macOS
